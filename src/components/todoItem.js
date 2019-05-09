@@ -1,5 +1,4 @@
 import React from "react";
-import "./todoItem.css";
 
 export default class TodoItem extends React.Component {
   constructor(props) {
